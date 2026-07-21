@@ -1,7 +1,7 @@
 <!-- 🌸 Animated Typing Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F472B6&size=28&center=true&vCenter=true&width=650&lines=Prachi+Talmale;AI+%7C+Data+Science+%7C+GenAI;Building+with+Purpose+%F0%9F%9A%80;Curious+Mind+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=10B981&size=28&center=true&vCenter=true&width=650&lines=Prachi+Talmale;AI+%7C+Data+Science+%7C+GenAI;Building+with+Purpose+%F0%9F%9A%80;Curious+Mind+%E2%9C%A8" />
 </p>
 
 ---
