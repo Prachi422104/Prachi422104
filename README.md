@@ -1,98 +1,97 @@
-# ⚡ Prachi.exe has entered the system
+<!-- 🌸 Animated Typing Header -->
 
-```bash
-> Initializing profile...
-> Loading skills...
-> Passion for Data & AI detected ✔
-> Future AI Engineer in progress...
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F58F7C&size=28&center=true&vCenter=true&width=650&lines=Prachi+Talmale;AI+%7C+Data+Science+%7C+GenAI;Building+with+Purpose+%F0%9F%9A%80;Curious+Mind+%E2%9C%A8" />
+</p>
+
+---
+
+<h1 align="center">Prachi Talmale</h1>
+
+<p align="center">
+  <i>Data • Intelligence • Creativity</i>
+</p>
+
+---
+
+## ✨ About Me
+
+```yaml id="abtme"
+name: Prachi Talmale
+education: B.Tech (AI & Data Science)
+focus: Data Analytics | Machine Learning | Generative AI
+approach: Learn deeply • Build consistently • Improve endlessly
 ```
 
 ---
 
-## 🧠 Who am I?
+## ⚙️ Skills & Tools
 
-Hey! I'm **Prachi Talmale** — a curious mind navigating the world of
-📊 Data | 🤖 AI | ⚡ Real-world problem solving
+### 💻 Languages
 
-I don’t just build projects…
-I **experiment, break things, learn, and build better versions**.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql" />
+</p>
+
+### 📊 Data & AI
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel" />
+</p>
 
 ---
 
-## 🚀 What I’m Building
+## 🌱 What I Believe
 
-🔋 **EV Charging Demand Forecasting**
-→ Predicting future EV demand using time-series + weather patterns
-
-📄 **ContractLens (GenAI Project)**
-→ Detecting risky legal clauses using **RAG + NLP + Privacy AI**
-
-💰 **ArthAstra**
-→ AI-powered loan eligibility system using **Google Vertex AI**
-
-🌱 **Smart Irrigation (IoT)**
-→ Making farming smarter with automation + sensors
+> Technology is powerful when it solves real-world problems.
+> I aim to build solutions that are **practical, scalable, and meaningful.**
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🌐 Connect
 
-```python
-Languages = ["Python", "C++", "SQL"]
+<p align="center">
+  <a href="https://linkedin.com/in/prachi-talmale422104">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Prachi422104">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:prachistalmale@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Data = ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Power BI"]
+---
 
-Web = ["React", "Next.js", "Node.js", "FastAPI", "Tailwind"]
+## 🌟
 
-AI = ["Machine Learning", "Time Series", "RAG", "GenAI"]
-
-Tools = ["Git", "Docker", "AWS", "Vercel", "Jupyter"]
+```text id="quote"
+Keep learning. Keep building. Keep evolving.
 ```
 
 ---
-
-## 📈 Current Mode
-
-```text
-[████████░░] DSA Grinding  
-[██████░░░░] GenAI Mastery  
-[█████████░] Building Projects  
-```
-
----
-
-## 🏆 Side Quests Completed
-
-* 🧠 Data Analyst Intern (MSME + Skill India)
-* 🚀 Hackathons: NASA Space Apps | Myntra | Buildathons
-* 📜 Certifications:
-
-  * CS50 Python (Harvard)
-  * AWS Cloud Practitioner
-  * Power BI (SkillUp)
-  * Prompt Engineering (AWS)
-
----
-
-## 🎯 Mission
-
-> Build AI systems that **actually solve real problems**,
-> not just sit in Jupyter notebooks.
-
----
-
-## 📡 Let’s Connect
-
-💼 LinkedIn → linkedin.com/in/prachi-talmale422104
-📧 Email → [prachistalmale@gmail.com](mailto:prachistalmale@gmail.com)
-
----
-
-## ⚡ Fun Fact
-
-I believe debugging life is just like debugging code —
-**find the bug, fix it, upgrade yourself 🚀**
-
----
-
-⭐ *If you like my work, let’s build something amazing together!*
