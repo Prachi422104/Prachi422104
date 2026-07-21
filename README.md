@@ -6,7 +6,6 @@
 
 ---
 
-<h1 align="center">Prachi Talmale</h1>
 
 <p align="center">
   <i>Data • Intelligence • Creativity</i>
