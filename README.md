@@ -74,13 +74,3 @@ Keep learning. Keep building. Keep evolving.
 > Build softly, think deeply, create impact.
 
 ---
-
-## 💌 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/prachi-talmale422104"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:prachistalmale@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
