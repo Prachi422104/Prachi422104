@@ -1,36 +1,76 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F8AFA6&size=28&center=true&vCenter=true&width=650&lines=𝓟𝓻𝓪𝓬𝓱𝓲+𝓣𝓪𝓵𝓶𝓪𝓵𝓮;Data+%7C+AI+%7C+GenAI;Building+with+Elegance+%E2%9C%A8" />
-</p>
+<!-- 🌸 Animated Typing Header --><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F58F7C&size=28&center=true&vCenter=true&width=650&lines=Prachi+Talmale;AI+%7C+Data+Science+%7C+GenAI;Building+with+Purpose+%F0%9F%9A%80;Curious+Mind+%E2%9C%A8" />
+</p>---
 
-<h1 align="center">𝓟𝓻𝓪𝓬𝓱𝓲 𝓣𝓪𝓵𝓶𝓪𝓵𝓮</h1>
+<h1 align="center">Prachi Talmale</h1><p align="center">
+  <i>Data • Intelligence • Creativity</i>
+</p>---
 
-<p align="center">
-  <i>✨ Turning ideas into intelligent systems ✨</i>
-</p>
+✨ About Me
 
----
-
-## 🌷 About
-
-```yaml
-curiosity: high
-consistency: building daily
-focus: Data + AI + GenAI
-goal: meaningful impact through technology
-```
+name: Prachi Talmale
+education: B.Tech (AI & Data Science)
+focus: Data Analytics | Machine Learning | Generative AI
+approach: Learn deeply • Build consistently • Improve endlessly
 
 ---
 
-## 🪄 Skills
+⚙️ Skills & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,react,nodejs,mongodb,aws,docker" />
-</p>
+💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql" />
+</p>📊 Data & AI
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi" />
+</p>🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>☁️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel" />
+</p>---
+
+🌱 What I Believe
+
+«Technology is powerful when it solves real-world problems.
+I aim to build solutions that are practical, scalable, and meaningful.»
 
 ---
 
-## 🌿 Philosophy
+🌐 Connect
 
+<p align="center">
+  <a href="https://linkedin.com/in/prachi-talmale422104">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Prachi422104">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:prachistalmale@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>---
+
+🌟
+
+Keep learning. Keep building. Keep evolving.
+
+---
 > Build softly, think deeply, create impact.
 
 ---
