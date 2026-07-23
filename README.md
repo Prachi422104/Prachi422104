@@ -10,9 +10,9 @@
 
 ✨ About Me
 
-name: Prachi Talmale
-education: B.Tech (AI & Data Science)
-focus: Data Analytics | Machine Learning | Generative AI
+name: Prachi Talmale 
+education: B.Tech (AI & Data Science) 
+focus: Data Analytics | Machine Learning | AI
 approach: Learn deeply • Build consistently • Improve endlessly
 
 ---
