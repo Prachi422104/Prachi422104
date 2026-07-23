@@ -78,9 +78,6 @@ approach: Learn deeply • Build consistently • Improve endlessly
   <a href="https://github.com/Prachi422104">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://instagram.com/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
   <a href="mailto:prachistalmale@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
