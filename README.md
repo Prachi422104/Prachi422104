@@ -45,7 +45,7 @@ approach: Learn deeply • Build consistently • Improve endlessly
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,tailwind" />
 </p>
 
 ### 🗄️ Databases
@@ -57,7 +57,7 @@ approach: Learn deeply • Build consistently • Improve endlessly
 ### ☁️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vercel" />
 </p>
 
 ---
